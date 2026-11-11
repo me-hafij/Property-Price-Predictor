@@ -1,0 +1,4 @@
+REAL ESTATE PRICE PREDICTOR
+Group 9 | Python for Machine Learning
+Sample property: 1200 sq.ft., 3 bedrooms, 2 bathrooms, Kolkata
+Run main.py to train the model and display the current evaluation metrics and sample estimate.
